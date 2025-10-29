@@ -171,7 +171,7 @@ Build a CLI named `gowisdom` that prints random Go proverbs:
 
 | Chapter | Title | Rank | Status |
 |:--|:--|:--|:--|
-| I | The Birth of a Gopher | 🥚 Hatchling | ⬜ Not Started |
+| I | The Birth of a Gopher | 🥚 Hatchling | ⏳ Started |
 | II | The Concurrency Trials | 🦴 Apprentice | ⬜ Not Started |
 | III | The Architecture Arcana | ⚔️ Knight | ⬜ Not Started |
 | IV | Rise of the Microservices | 🧙 Wizard | ⬜ Not Started |
